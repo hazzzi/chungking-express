@@ -1,3 +1,10 @@
-p {
-  color: #ddd;
+html {
+  background-color: #1f9987;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
