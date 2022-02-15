@@ -8,3 +8,15 @@ html {
   justify-content: center;
   height: 100vh;
 }
+
+.delmonte { 
+  width: 300px;
+  height: 370px;
+}
+
+.delmonte .can-lid{ 
+  height: 77px;
+  width: 100%;
+  border-radius: 50% / 50%;
+  background-color: #576368;
+}
